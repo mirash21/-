@@ -1,6 +1,7 @@
-<имг ширина="1536" высота="768" альт="1" источник="https://github.com/user-attachments/assets/a967dd8a-e1d5-4f43-bfda-ac3a53f1611d" /># -
+
 Эта книга — не про то, как бросить работу, переехать на Бали и стать гуру осознанности. Она про другое: как перестать быть сотрудником собственной работы и начать быть автором собственной жизни.
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/user-attachments/assets/a967dd8a-e1d5-4f43-bfda-ac3a53f1611d))
+<img width="1536" height="768" alt="1" src="https://github.com/user-attachments/assets/1e9c8cc8-901c-41d9-9e09-47f475469f99" />
+
 # ВЫБИРАЙ:
 
 **РАБОТА ради жизни**
